@@ -10,7 +10,7 @@ _This is a portfolio crafted as a showcase for the skills learned through the fi
 
 ## Setup/Installation Requirements
 
-* _Navigate to appropriate webpage utilizing a browser_
+* _Navigate to https://gingerbolt.github.io/Portfolio-Project/_
 * _Enjoy the page_
 
 ## Known Bugs

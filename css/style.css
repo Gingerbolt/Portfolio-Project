@@ -1,5 +1,6 @@
 #sidebar{
  color: black;
+
 }
 #disclaimer{
   color: white;
@@ -38,4 +39,11 @@ h2{
 
 .HFD {
   list-style: none;
+}
+#push {
+  padding-left: 20px
+}
+
+#interest {
+  float: right;
 }
