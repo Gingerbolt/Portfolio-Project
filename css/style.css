@@ -2,7 +2,7 @@
  color: black;
 }
 #disclaimer{
-
+  color: white;
   overflow: hidden;
 }
 #disclaimer span {
@@ -19,7 +19,7 @@ body{
   background-size: cover;
 }
 p{
-  color: white;
+
 }
 h1{
   color: white;
@@ -29,5 +29,16 @@ h2{
 }
 .cascading li {
   text-align: center;
+  list-style: none;
+}
+#abtme{
+  color: black;
+  text-align: center;
+}
+#opener{
+  color: white
+}
+
+.HFD {
   list-style: none;
 }
