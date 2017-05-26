@@ -18,9 +18,6 @@ body{
   background-image: url(http://www.publicdomainpictures.net/pictures/30000/velka/beauty-of-nature-17.jpg);
   background-size: cover;
 }
-p{
-
-}
 h1{
   color: white;
 }
@@ -31,7 +28,7 @@ h2{
   text-align: center;
   list-style: none;
 }
-#abtme{
+.abtme{
   color: black;
   text-align: center;
 }
