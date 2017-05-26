@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a portfolio crafted as a showcase for the skills learned through one week of study. The first step of many. Intended for hosting on git hub's gh-pages service_
+_This is a portfolio crafted as a showcase for the skills learned through the first week of study. The first step of many. Intended for hosting on git hub's gh-pages service_
 
 ## Setup/Installation Requirements
 
