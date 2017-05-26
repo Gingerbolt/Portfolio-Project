@@ -1,0 +1,38 @@
+.banner {
+  text-align: center;
+}
+
+.entire {
+  background-color: black;
+  padding: 20px;
+  margin: 20px;
+  border: 10px green dotted;
+  overflow: hidden;
+}
+
+h1 {
+  color: white;
+  font-style: italic;
+}
+.tourdates {
+  width: 15%;
+  color: white;
+  float: left;
+  background-color: teal;
+}
+.failedembed {
+  float: right;
+  width: 20%
+}
+.mainbulk {
+  text-align: center;
+  float: right;
+  width: 65%;
+  color: salmon;
+}
+
+.column {
+  width: 300px;
+  float: left;
+  color: salmon;
+}

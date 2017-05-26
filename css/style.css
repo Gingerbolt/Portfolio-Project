@@ -1,0 +1,33 @@
+#sidebar{
+ color: black;
+}
+#disclaimer{
+
+  overflow: hidden;
+}
+#disclaimer span {
+  color: orange;
+}
+.typo span{
+  font: serif
+}
+.showoff #cascade{
+  color: brown
+}
+body{
+  background-image: url(http://www.publicdomainpictures.net/pictures/30000/velka/beauty-of-nature-17.jpg);
+  background-size: cover;
+}
+p{
+  color: white;
+}
+h1{
+  color: white;
+}
+h2{
+  text-align: center;
+}
+.cascading li {
+  text-align: center;
+  list-style: none;
+}

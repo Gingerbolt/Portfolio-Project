@@ -1,0 +1,19 @@
+.journal {
+  color: grey;
+  font-style: italic;
+  font-family: fantasy;
+  font-size: 12px;
+}
+.mainText, .secondText {
+  color: salmon;
+  text-align: center;
+  background-color: aqua;
+}
+
+body {
+  background-color: purple;
+}
+
+.pooprainbow {
+  color: brown;
+}
